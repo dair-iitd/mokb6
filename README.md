@@ -6,6 +6,7 @@ mOKB6 has 42K facts in six languages: English, Hindi, Telugu, Spanish, Portugues
 We also provide the code of our baseline knowledge graph embedding model, which is adapted from the publicly available official code repository ([link](https://github.com/intfloat/SimKGC)) of [Wang et al., 2022](https://aclanthology.org/2022.acl-long.295).
 
 This work appeared at the **ACL 2023 (main)** conference and more details can be found in the paper ([paper link](https://arxiv.org/abs/2211.06959)).
+Checkout the video ([link](https://drive.google.com/file/d/1TYx-FABr9QdrAXFHM3gSxHOoc0WrsFcF/view?usp=drive_link)) or poster ([link](https://drive.google.com/file/d/1PXODKMhFKkw3FRNZOn2xToW5mzIbdT72/view?usp=drive_link)) presentation for a brief overview. 
 
 ## mOKB6 Dataset
 The `./mokb6/mono/` folder contains the mOKB6 dataset, containing six monolingual open KBs in six languages: 
