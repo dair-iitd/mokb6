@@ -101,12 +101,18 @@ python3 evaluate.py --task mopenkb --pretrained-model bert-base-multilingual-cas
 ## Cite
 If you use or extend our work, please cite it:
 ```
-@misc{mittal2023mokb6,
-      title={mOKB6: A Multilingual Open Knowledge Base Completion Benchmark}, 
-      author={Shubham Mittal and Keshav Kolluru and Soumen Chakrabarti and Mausam},
-      year={2023},
-      eprint={2211.06959},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{mittal-etal-2023-mokb6,
+    title = "m{OKB}6: {A} {M}ultilingual {O}pen {K}nowledge {B}ase {C}ompletion {B}enchmark",
+    author = "Mittal, Shubham  and
+      Kolluru, Keshav  and
+      Chakrabarti, Soumen  and
+      -, Mausam",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-short.19",
+    pages = "201--214",
 }
 ```
